@@ -1,1 +1,1 @@
-# EPIC-ARCHERY-STAGE-5
+# project-C25-template
